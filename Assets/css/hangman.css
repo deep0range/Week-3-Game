@@ -1,0 +1,12 @@
+#container > div {
+	background-color: blue;
+	opacity:0.6;
+	margin: 1%;
+	width: 100px;
+	height: 100px;
+	float left !important;
+	display: inline-block;
+	color: white;
+	font-size: 2em;
+}	
+
